@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "folio",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/private/tmp/claude-501/-Users-carl-Documents-miralen-marketer-folio/fadf8b6f-5d58-43a9-859e-a83f0104a442/scratchpad/serve.py"],
+      "port": 4198
+    }
+  ]
+}
